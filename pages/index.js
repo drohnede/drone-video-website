@@ -31,6 +31,8 @@ export default function Home() {
   <p>Telefon: +49 176 764 903 32</p>
 </div>
 
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/NTLBPe8Y4tw?si=4xpZCzvAfcZ4ugBt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <div style={{marginTop:"60px"}}>
   <h2>Portfolio</h2>
 
